@@ -4,7 +4,7 @@
 
 OpenCV is the world's biggest computer vision library, providing over 2,500 algorithms and helper functions for efficiently manipulating image and video data. Many core functions make use of hardware acceleration on supported platforms. The [opencv_contrib](https://github.com/opencv/opencv-python) repository contains additional tools and functions not suitable for the core library.
 
-OpenCV provides stable [python](https://github.com/opencv/opencv-python) and C++ APIs as well as [release packages](https://opencv.org/releases/) for Windows, Android, and iOS. The library was founded in June 2000 and is operated by the non-profit Open Source Vision Foundation.
+OpenCV provides stable [python](https://github.com/opencv/opencv-python) and [C++](https://github.com/opencv/opencv) APIs as well as [release packages](https://opencv.org/releases/) for Windows, Android, and iOS. The library was founded in June 2000 and is operated by the non-profit Open Source Vision Foundation.
 
 ## Developer Resources
 
