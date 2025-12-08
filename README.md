@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/opencv/opencv)](https://github.com/opencv/opencv/blob/HEAD/LICENSE) [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/opencv/opencv/badge)](https://securityscorecards.dev/viewer/?uri=github.com/oepncv/opencv) [![Documentation](https://img.shields.io/badge/docs-reference-blue.svg)](https://docs.opencv.org) [![Get Started](https://img.shields.io/badge/get_started-free_course-purple.svg)](https://opencv.org/university/free-opencv-course/?utm_source=opcv&utm_medium=github)
+[![License](https://img.shields.io/github/license/opencv/opencv)](https://github.com/opencv/opencv/blob/HEAD/LICENSE) [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/opencv/opencv/badge)](https://securityscorecards.dev/viewer/?uri=github.com/opencv/opencv) [![Documentation](https://img.shields.io/badge/docs-reference-blue.svg)](https://docs.opencv.org) [![Get Started](https://img.shields.io/badge/get_started-free_course-purple.svg)](https://opencv.org/university/free-opencv-course/?utm_source=opcv&utm_medium=github)
 
 # OpenCV: Open Source Computer Vision Library
 
