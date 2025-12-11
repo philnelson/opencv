@@ -10,6 +10,7 @@ OpenCV provides stable [python](https://github.com/opencv/opencv-python) and [C+
 
 * Homepage: [OpenCV.org](https://opencv.org)
 * Docs: [docs.opencv.org](https://docs.opencv.org/)
+* Courses: [OpenCV University](https://opencv.org/university/)
 * Issue Tracker: [GitHub Issues](https://github.com/opencv/opencv/issues)
 * Additional functionality: [opencv_contrib](https://github.com/opencv/opencv_contrib)
 
